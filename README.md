@@ -1,5 +1,6 @@
 # Hardware-Check
 检查服务器的硬件信息，cpu 内存，网卡啊之类的。用菜单检索也可以自行删除菜单全部显示出来，输出都是中文显示，不喜欢可以删除中文
+
 Check server's motherboard info , such as NIC , CPU , Raid , Mem etc.
 
 (1) 查看CPU信息
