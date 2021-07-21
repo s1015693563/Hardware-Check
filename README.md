@@ -3,8 +3,6 @@
 
 Check server's motherboard info , such as NIC , CPU , Raid , Mem etc.
 
-赋予脚本执行权限，执行后选择输入相应数字
-
 (1) 查看CPU信息
 
 (2) 查看内存信息
